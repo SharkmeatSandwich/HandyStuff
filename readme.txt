@@ -6,3 +6,6 @@ https://www.sigmaelectronica.net/wp-content/uploads/2017/11/RPI-guia.pdf
 
 Plug and Play IoT with the Pi Sense HAT
 https://www.rs-online.com/designspark/plug-and-play-iot-with-the-pi-sense-hat
+
+Node-Red on RaspberryPi
+https://www.instructables.com/id/Node-Red-Control-RaspberryPi/
