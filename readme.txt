@@ -12,3 +12,6 @@ https://www.instructables.com/id/Node-Red-Control-RaspberryPi/
 
 Run a Program On Your Raspberry Pi At Startup
 https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
+
+Raspberry Pi Sense Hat Api Reference
+https://pythonhosted.org/sense-hat/api/
