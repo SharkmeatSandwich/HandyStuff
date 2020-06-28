@@ -15,3 +15,6 @@ https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-sta
 
 Raspberry Pi Sense Hat Api Reference
 https://pythonhosted.org/sense-hat/api/
+
+How To Setup Raspberry Pi Zero W Headless WiFi
+https://core-electronics.com.au/tutorials/raspberry-pi-zerow-headless-wifi-setup.html?gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgIXRkbwAawhy7bYlgYRPCh1fVXBRqYmwssk9PpDIncHv69YfJNnilsaAsaCEALw_wcB
