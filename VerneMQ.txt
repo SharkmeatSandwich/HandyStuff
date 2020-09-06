@@ -1,0 +1,11 @@
+#if you are attempting to install VerneMQ (an MQTT broker) on Ubuntu, you may find the setup instructions lacking. Use the following:
+
+Installation
+1.	VerneMQ- First install libsnappy: sudo apt-get install libsnappy-dev
+2.	Upload VerneMQ binary with Filezilla
+3.	Run: sudo dpkg -i vernemq-<VERSION>.bionic.x86_64.deb
+4.	Check status of installation: systemctl status vernemq.service
+5.	Accept EULA: sudo vernemq chkconfig 
+6.	Again run: sudo dpkg -i vernemq-<VERSION>.bionic.x86_64.deb
+7.	To join cluster: vmq-admin cluster join discovery-node=<OtherClusterNode>   
+ie:      vmq-admin cluster join discovery-node=VerneMQ2@172.31.2.197
