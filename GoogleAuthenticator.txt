@@ -1,0 +1,3 @@
+# If you are installing Google Authenticator as MFA for your AWS Server (or any server for that matter), DO NOT INSTALL AS THE ROOT ACCOUNT!!!! 
+# https://www.digitalocean.com/community/tutorials/how-to-configure-multi-factor-authentication-on-ubuntu-18-04
+# The above is a reasonable set of instructions to install.
